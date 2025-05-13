@@ -47,3 +47,7 @@ compile_commands.json
 *.swp
 .DS_Store
 Thumbs.db
+
+.idea/
+cmake-build-debug/
+
