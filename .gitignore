@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# IDEs y carpetas de configuración
+.idea/
+.vscode/
+cmake-build-debug/
+build/
+CMakeFiles/
+Makefile
+CMakeCache.txt
+compile_commands.json
+
+# Archivos temporales de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+.idea/
+cmake-build-debug/
+
